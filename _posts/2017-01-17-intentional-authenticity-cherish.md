@@ -3,8 +3,6 @@ title: Intentional, Authenticity, Cherish
 date: '2017-01-04 00:45:00'
 layout: post
 ---
-# Intentional, Authenticity, Cherish
-
 Three words have been rolling across my mind in looking toward this year: 
 
 1. Intentional
