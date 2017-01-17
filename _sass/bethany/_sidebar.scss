@@ -1,0 +1,46 @@
+.sidebar {
+  .site-info {
+    padding: 90px 15px 0;
+    color: $grey-color-light;
+
+    @media(min-width: 768px) {
+      padding: 180px 100px 0;
+    }
+
+    @media(min-width: 992px) {
+      padding: 0 20px;
+      position: absolute;
+      bottom: 40px;
+    }
+
+    @media(min-width: 1200px) {
+      padding: 0 30px;
+    }
+
+    .primary-info {
+      border-bottom: solid 1px rgba(255, 255, 255, .3);
+    }
+
+    h1 {
+      text-shadow: 0 1px 3px rgba(0, 0, 0, .3);
+      letter-spacing: -2pt;
+      margin-bottom: 0;
+
+      @media(min-width: 768px) {
+        letter-spacing: 0;
+        margin-bottom: 10px;
+        font-size: 34px;
+        font-size: 3.4rem;
+      }
+    }
+
+    p {
+      margin-bottom: 10px;
+      text-shadow: 0 1px 3px rgba(0, 0, 0, .3);
+      line-height: 24px;
+      line-height: 2.4rem;
+      font-size: 16px;
+      font-size: 1.6rem;
+    }
+  }
+}

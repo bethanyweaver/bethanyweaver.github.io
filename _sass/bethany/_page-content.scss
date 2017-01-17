@@ -1,0 +1,35 @@
+.page-content {
+  padding: 30px;
+
+  @media(min-width: 768px) {
+    padding: 60px 120px;
+  }
+
+  @media(min-width: 992px) {
+    padding: 50px;
+  }
+
+  .sub-nav {
+    border-bottom: solid 1px #f5f5f5;
+    line-height: 30px;
+
+    a {
+      display: inline-block;
+      margin-right: 10px;
+      line-height: 30px;
+      font-family: $header-font-family;
+      letter-spacing: 2pt;
+      text-decoration: none;
+      color: #b6b6b6;
+      text-transform: uppercase;
+      font-weight: 700;
+      font-size: 12px;
+      font-size: 1.2rem;
+
+      &.active {
+        border-bottom: solid 2px #000;
+        color: #333337;
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+.split-footer {
+  padding: 10px 0;
+  font-size: 11px;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  font-family: $header-font-family;
+  text-transform: uppercase;
+  font-weight: 700;
+
+  a {
+    color: #999;
+    border-bottom: none;
+    transition: all 0.5s;
+
+    &:hover {
+      text-decoration: none;
+      color: #333;
+    }
+  }
+}
