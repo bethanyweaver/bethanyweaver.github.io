@@ -3,3 +3,11 @@ title: Cherish
 date: '2017-01-19 21:33:54'
 layout: post
 ---
+The other day I heard the word cherish and it gave me one of those super cool, tickle-your-ears sort of feelings. I knew it was going to be something God would speak to me about this year. It’s not a word we hear often enough, reserved mostly for wedding vows. When we’re speaking to loved ones, we opt for words and phrases like “I’m grateful for you”, “I love you”, and “I appreciate you”. When was the last time you told someone that you *cherish *them? For me, I can’t even think of an example. Was it my wedding day? Yes, when I heard the word *cherish *, it sank deep into my soul. 
+To cherish something goes beyond the surface of emotion and feeling and enters into that world of intention (can you see how interconnected my resolutions are this year?). One definition of [cherish](https://www.merriam-webster.com/dictionary/cherish) is “to keep or cultivate with care and affection.” In my life, I want to cherish my husband and daughter. I want to invest in them and to nurture them with my time, energy, thoughts, and prayers. I want to intentionally serve them and reflect on my gratitude for them. I want to hold dear the moments I have with my little newborn. Everyone keeps telling me it goes by quickly—too quickly—and I want to do everything in my power to savor these moments with her. I want to treasure my husband both as an awesome, loving partner and as a truly wonderful and capable father. I want to speak life into him and encourage him in his pursuits. I value him so much and I don’t want day-to-day life or the grumppies to get in the way of him feeling truly cherished. 
+Here’s a final thought to soak our minds in today: 
+> If you want something to last forever, you treat it differently. You shield it and protect it. You never abuse it. You don’t expose it to the elements. You don’t make it common or ordinary. If it ever becomes tarnished, you lovingly polish it until it gleams like new. It becomes special because you have made it so, and it grows more beautiful and precious as time goes by.
+> ― F. Burton Howard
+
+
+Cherish the treasures in your life…today. 
