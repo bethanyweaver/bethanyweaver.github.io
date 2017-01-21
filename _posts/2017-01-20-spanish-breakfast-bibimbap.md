@@ -31,8 +31,9 @@ Serve with all the breakfast fixins—eggs, bacon, sausage/chorizo and some Nana
 
 #Leftovers You could use these **leftover** **potatoes** in a smoked sausage hash. Sauté some andouille or smoked sausage and add potatoes/onion/peppers and cook until heated through. These potatoes are not exclusive to breakfast and should be enjoyed often :)  
 **Leftover** **chipotles** from this recipe? Don’t toss them, try some of my favorite chipotle recipes:
+- [Grilled Chipotle Apricot-Glazed Pork Loin Chops](http://wildflourskitchen.com/2014/07/10/grilled-chipotle-apricot-glazed-pork-loin-chops/)
+- [Grilled Honey Chipotle Chicken Drumsticks](http://picturetherecipe.com/index.php/recipes/grilled-honey-chipotle-chicken-drumsticks/)
+- [Chipotle and Roasted Garlic Compound Butter](https://www.tastingtable.com/entry_detail/chefs_recipes/18308/how_to_make_chipotle_and_roasted_garlic_compound_butter.htm?utm_campaign=trueAnthem:+Trending+Content&utm_content=5560293604d3010c51000001&utm_medium=trueAnthem&utm_source=facebook)
+- [Freeze It!](http://www.thekitchn.com/the-best-way-to-save-chipotles-in-adobo-sauce-tips-from-the-kitchn-206423)
 
-*   [Grilled Chipotle Apricot-Glazed Pork Loin Chops]
-*   [Grilled Honey Chipotle Chicken Drumsticks]
-*   [Chipotle and Roasted Garlic Compound Butter]
-*   [Freeze It!]
+
