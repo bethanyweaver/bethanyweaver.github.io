@@ -3,8 +3,6 @@ title: Spanish Breakfast Bibimbap
 date: '2017-01-20 20:55:32'
 layout: post
 ---
-# Spanish Breakfast Bibimbap
-
 ![Spanish Potatoes](16174714_10211269374866031_7880112983159545022_n.jpg)
 Dinner was so good tonight I just have to share it. In living intentionally, Jacob and I have been trying to eat out less, eat more affordably, and use what we have on hand. We've been getting pretty creative with our dishes and it feels awesome! 
 Here’s my take on a Spanish Breakfast Bibimbap. I used scrambled eggs but next time I will for sure go for a medium well egg to top it off!
