@@ -29,6 +29,7 @@ Serve with all the breakfast fixins—eggs, bacon, sausage/chorizo and some Nana
 ![](16195430_10211269675193539_410160884356126189_n.jpg)
 
 #Leftovers
+
 You could use these leftover potatoes in a smoked sausage hash. Sauté some andouille or smoked sausage and add potatoes/onion/peppers and cook until heated through. These potatoes are not exclusive to breakfast and should be enjoyed often :) 
 <br>Leftover chipotles from this recipe? Don’t toss them, try some of my favorite chipotle recipes: 
 - [Grilled Chipotle Apricot-Glazed Pork Loin Chops]
