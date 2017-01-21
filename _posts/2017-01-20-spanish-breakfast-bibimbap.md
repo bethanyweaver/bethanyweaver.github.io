@@ -5,6 +5,8 @@ layout: post
 ---
 <span class="image-wrapper media-wrapper" contenteditable="false"></span>
 
+<span class="image-wrapper media-wrapper" contenteditable="false"></span>
+
 ![Spanish Potatoes](16174714_10211269374866031_7880112983159545022_n.jpg) Dinner was so good tonight I just have to share it. In living intentionally, Jacob and I have been trying to eat out less, eat more affordably, and use what we have on hand. We've been getting pretty creative with our dishes and it feels awesome!  Here’s my take on a Spanish Breakfast Bibimbap. I used scrambled eggs but next time I will for sure go for a medium well egg to top it off!
 
 # Ingredients
@@ -20,19 +22,17 @@ layout: post
 
 # Preparation
 
-Preheat oven to 425 degrees. Dice potatoes, onions, and peppers into 1/2 inch cubes. In a large bowl, mix the potatoes, vegetables, olive oil, garlic powder, cumin, salt, and pepper. Set aside. In a large nonstick skillet, melt butter and add chipotle peppers. Infuse butter and peppers for 1-2 minutes. Add potatoes and veggies to skillet and sauté until golden brown and slightly tender (about 10 minutes).
+Preheat oven to 425 degrees. Dice potatoes, onions, and peppers into 1/2 inch cubes. In a large bowl, mix the potatoes, vegetables, olive oil, garlic powder, cumin, salt, and pepper. Set aside. In a large nonstick skillet, melt butter and add chipotle peppers. Infuse butter and peppers for 1-2 minutes. Add potatoes and veggies to skillet and sauté until golden brown and slightly tender (about 10 minutes).  
 Transfer potatoes to a baking sheet and arrange in an even layer. Roast until potatoes are completely cooked and can be easily pierced by fork (about 15 minutes).
 
 Serve with all the breakfast fixins—eggs, bacon, sausage/chorizo and some Nana’s tortillas. Whatever you do, make sure to grab those tortillas…best flour tortillas you can buy from a grocery store!<span class="image-wrapper media-wrapper" contenteditable="false"></span>
 
 ![](16195430_10211269675193539_410160884356126189_n.jpg)
 
-# Leftovers
+#Leftovers You could use these **leftover** **potatoes** in a smoked sausage hash. Sauté some andouille or smoked sausage and add potatoes/onion/peppers and cook until heated through. These potatoes are not exclusive to breakfast and should be enjoyed often :)  
+**Leftover** **chipotles** from this recipe? Don’t toss them, try some of my favorite chipotle recipes:
 
-You could use these leftover potatoes in a smoked sausage hash. Sauté some andouille or smoked sausage and add potatoes/onion/peppers and cook until heated through. These potatoes are not exclusive to breakfast and should be enjoyed often :)
-<br>Leftover chipotles from this recipe? Don’t toss them, try some of my favorite chipotle recipes:
-
-- [Grilled Chipotle Apricot-Glazed Pork Loin Chops]
-- [Grilled Honey Chipotle Chicken Drumsticks]
-- [Chipotle and Roasted Garlic Compound Butter]
-- [Freeze It!]
+*   [Grilled Chipotle Apricot-Glazed Pork Loin Chops]
+*   [Grilled Honey Chipotle Chicken Drumsticks]
+*   [Chipotle and Roasted Garlic Compound Butter]
+*   [Freeze It!]
