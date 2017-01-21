@@ -1,70 +1,45 @@
-body {
-  width: 100%;
-  height: 100%;
-}
-
-.slideout-menu {
+#nav {
+  background-color: #3a3a3f;
   position: fixed;
+  height: 100vh;
+  left: 0;
   top: 0;
-  bottom: 0;
   width: 250px;
-  min-height: 100vh;
-  overflow-y: scroll;
-  -webkit-overflow-scrolling: touch;
-  z-index: 0;
-  display: none;
-  background-color: $text-color;
-  color: $grey-color-light;
 
   ul {
-    list-style-type: none;
-    margin: 0;
     padding: 10px 0;
+    margin: 0 0 20px;
+    font-size: 16px;
+    font-size: 1.6rem;
 
     li {
+      margin: 0;
       padding: 10px 0;
-      font-size: 0.9em;
+      list-style: none;
 
-      i { padding: 0 20px; }
+      i {
+        padding: 0 20px;
+        color: $grey-color-light;
+        font-size: 14px;
+        font-size: 1.4rem;
+      }
+
       a {
+        color: $grey-color-light;
         font-family: $header-font-family;
         font-weight: 700;
-        color: $grey-color-light;
+        border-bottom: none;
+        font-size: 12px;
+        font-size: 1.2rem;
         transition: all 0.5s;
 
         &:hover {
-          color: #fff;
           text-decoration: none;
+          color: #ffffff;
         }
       }
     }
   }
-}
-
-.slideout-menu-left {
-  left: 0;
-}
-
-.slideout-menu-right {
-  right: 0;
-}
-
-.slideout-panel {
-  position: relative;
-  z-index: 1;
-  will-change: transform;
-  background-color: #FFF; /* A background-color is required */
-  min-height: 100vh;
-}
-
-.slideout-open,
-.slideout-open body,
-.slideout-open .slideout-panel {
-  overflow: hidden;
-}
-
-.slideout-open .slideout-menu {
-  display: block;
 }
 
 .toggle-button {
