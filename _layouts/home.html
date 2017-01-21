@@ -20,3 +20,9 @@ layout: default
     </article>
   {% endfor %}
 </div>
+
+<div class="home-page-categories">
+  {% for category in site.data.categories %}
+    {{ category.name }}
+  {% endfor %}
+</div>

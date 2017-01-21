@@ -1,8 +1,44 @@
 $(document).ready(function() {
-  var jPM = $.jPanelMenu({
-    menu: '#nav',
-    trigger: '.toggle-button'
+  // var jPM = $.jPanelMenu({
+  //   menu: '#nav',
+  //   trigger: '.toggle-button'
+  // });
+
+  // jPM.on();
+  $('.home-page-categories').hide();
+
+  $('.toggle-button').on('click', function(e) {
+    e.preventDefault();
+    $('body').toggleClass('is-open');
   });
 
-  jPM.on();
+  $('.select-posts').on('click', function(e) {
+    e.preventDefault();
+
+    if($(this).hasClass('active')) {
+      return;
+    } else {
+      $(this).addClass('active');
+      $('.select-categories').removeClass('active');
+
+      $('.home-page-posts').fadeOut(function() {
+        $('.home-page-categories').fadeIn();
+      });
+    }
+  });
+
+  $('.select-categories').on('click', function(e) {
+    e.preventDefault();
+
+    if($(this).hasClass('active')) {
+      return;
+    } else {
+      $(this).addClass('active');
+      $('.select-posts').removeClass('active');
+
+      $('.home-page-categories').fadeOut(function() {
+        $('.home-page-posts').fadeIn();
+      });
+    }
+  });
 });
