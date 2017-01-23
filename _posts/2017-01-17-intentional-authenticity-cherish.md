@@ -3,7 +3,7 @@ title: Intentional Living
 date: '2017-01-04 00:00:00'
 layout: post
 ---
-Three words have been rolling across my mind in looking toward this year.  
+Three words have been rolling across my mind in looking toward this year.
 
 1.  Intentional
 2.  [Authentic](http://bethanygearee.com/2017/01/06/authenticity.html)
@@ -15,7 +15,7 @@ These words are completely interconnected to what I want to see in my life, rela
 
 > That was the day she made herself the promise to live more from intention and less from habit.
 
-I have so many habits I’ve picked up over the years — and not good ones — I’m messy, undisciplined (hello shoes in the center of the room), a huge spender (goodbye paycheck, I never even saw you), I’m too ~mean~ short with my husband, and I have unfinished projects strewn all over my house usually in some embarrassing, disheveled pile. Indeed I have some very bad habits … but I don’t want those to define me. I want to break out of habitual living and step into intentional living.
+I have so many habits I’ve picked up over the years — and not good ones — I’m messy, undisciplined (hello shoes in the center of the room), a huge spender (goodbye paycheck, I never even saw you), I’m too <s>mean</s> short with my husband, and I have unfinished projects strewn all over my house usually in some embarrassing, disheveled pile. Indeed I have some very bad habits … but I don’t want those to define me. I want to break out of habitual living and step into intentional living.
 
 # The Garden
 
