@@ -22,7 +22,16 @@ layout: default
 </div>
 
 <div class="home-page-categories">
-  {% for category in site.data.categories %}
-    {{ category.name }}
-  {% endfor %}
+  <div class="category row">
+    <section>
+      {% for category in site.data.categories %}
+        <div class="category-preview col-xs-6 col-sm-4">
+          <h2>{{ category.name }}</h2>
+          <a href="/category/{{ category.name }}">
+            <img src="{{ category.image }}" alt="category-image">
+          </a>
+        </div>
+      {% endfor %}
+    </section>
+  </div>
 </div>

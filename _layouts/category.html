@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  {% include head.html %}
+  <body>
+    {% include menu.html %}
+
+    <div id="panel">
+      <div class="container left-container">
+        <div class="row">
+          <section class="sidebar col-md-5 col-sm-12" style="background-image: url(http://adventurethemes.com/demo/writer/jekyll/v1-d-20-2//img/feature-san-fran.jpg);">
+            <button class="toggle-button">
+              <span class="bar"></span>
+              <span class="bar"></span>
+              <span class="bar"></span>
+            </button>
+            <div class="site-info">
+              <div class="primary-info">
+                <h1>Writer</h1>
+                <p>Short stories from around the campfire for a fellow world explorer.</p>
+              </div>
+            </div>
+          </section>
+
+          <main class="page-content col-md-7 col-sm-12 col-md-offset-5" aria-label="Content">
+            <div class="sub-nav">
+              <a href="#" class="select-posts active">Posts</a>
+            </div>
+            <div class="home-page-posts">
+              {% for post in site.categories.[page.category] %}
+                <article class="post">
+                  <div class="post-preview col-xs-10 no-gutter">
+                    <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+                    {{ post.excerpt }}
+                    <p class="meta">
+                      <a href="#">Author</a> in <a href="#">Category</a>
+                      <i class="link-spacer"></i>
+                      <i class="fa fa-bookmark"></i> {{ post.date | date: "%b %-d, %Y" }}
+                    </p>
+                  </div>
+                  <div class="col-xs-2 no-gutter">
+                    <img src="//adventurethemes.com/demo/writer/jekyll/v1-d-20-2/img/michelle.jpg" alt="user-image" class="user-icon">
+                  </div>
+                </article>
+              {% endfor %}
+            </div>
+            {% include footer.html %}
+          </main>
+        </div>
+      </div>
+    </div>
+
+    {% include scripts.html %}
+  </body>
+</html>

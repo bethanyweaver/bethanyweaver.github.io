@@ -21,8 +21,8 @@ $(document).ready(function() {
       $(this).addClass('active');
       $('.select-categories').removeClass('active');
 
-      $('.home-page-posts').fadeOut(function() {
-        $('.home-page-categories').fadeIn();
+      $('.home-page-categories').fadeOut("fast", function() {
+        $('.home-page-posts').fadeIn("fast");
       });
     }
   });
@@ -36,8 +36,8 @@ $(document).ready(function() {
       $(this).addClass('active');
       $('.select-posts').removeClass('active');
 
-      $('.home-page-categories').fadeOut(function() {
-        $('.home-page-posts').fadeIn();
+      $('.home-page-posts').fadeOut("fast", function() {
+        $('.home-page-categories').fadeIn("fast");
       });
     }
   });

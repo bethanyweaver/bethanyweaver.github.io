@@ -1,7 +1,11 @@
-- name: Code
+- name: code
+  image: http://adventurethemes.com/demo/writer/jekyll/v1-d-20-2/img/storytime-thumbnail.jpg
 
-- name: Demos
+- name: demos
+  image: http://adventurethemes.com/demo/writer/jekyll/v1-d-20-2/img/life-thumbnail.jpg
 
-- name: Another
+- name: another
+  image: http://adventurethemes.com/demo/writer/jekyll/v1-d-20-2/img/journey-thumbnail.jpg
 
-- name: Final
+- name: final
+  image: http://adventurethemes.com/demo/writer/jekyll/v1-d-20-2/img/motivation-thumbnail.jpg
