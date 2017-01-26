@@ -1,6 +1,6 @@
 ---
 title: Gordon Ramsay's Spicy Mexican Eggs
-date: '2017-01-26 00:17:59'
+date: '2017-01-25 21:17:00'
 layout: post
 ---
 It’s no secret—or maybe it is?—my husband has a man crush on Gordon Ramsay. I think he’s even going to start styling his hair like him—yeah, he told me that; I’m not making it up. But who can blame him? Dreamy locks aside, the man makes some great food! 
@@ -54,4 +54,11 @@ Heat olive oil on medium heat. Once hot, add red onions, jalapeños, and garlic.
 \<br\> Creating little wells, crack each egg and pour into well. I had 5 total. 
 \<br\> Top with more salt and pepper, the white cheddar cheese and crush red pepper. 
 \<br\> Bake for 15 minutes at 350 degrees, making sure the the egg white is completely cooked. If still clear, continue cooking until white. 
-\<br\> Top with chopped cilantro, crumbled chorizo, or more baked tortilla triangles.
+\<br\> Top with chopped cilantro (if that's your thing)
+
+
+# serving suggestion: 
+
+Top with crumbled chorizo and baked tortilla triangles. I ate this with leftover chipotle-butter steak bites and [spanish potatoes](http://bethanygearee.com/2017/01/20/spanish-breakfast-bibimbap.html). 
+
+Enjoy :)
