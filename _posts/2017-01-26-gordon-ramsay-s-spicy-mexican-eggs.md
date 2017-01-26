@@ -12,7 +12,6 @@ This dinner was delicious—part of our #kitchenadventures commitment to test, c
 If you’re a visual learner like me, go ahead and check out Gordon’s video on how to make this dish. If not, feel free to keep reading on. [Gordon Ramsay’s Tutorial](https://www.youtube.com/watch?v=RplHSEiNB7s&index=12&t=55s&list=PLYG-i702AehO_tnJqQZlj2Bpy1fHc6feP)
 
 # Ingredients
-
 1 tbs. Olive oil  
 1 small red onion, diced  
 1 jalapeno, sliced  
