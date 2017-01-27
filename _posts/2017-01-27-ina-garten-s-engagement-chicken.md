@@ -13,7 +13,14 @@ Here is Ina’s [recipe](http://www.foodnetwork.com/recipes/ina-garten/engagemen
 
 # Ingredients
 
-1 (4 to 5 pound) whole chicken <span style="letter-spacing: 0.01em;">Kosher salt and black pepper 1/2 lemon 1 whole head garlic, halved Olive oil 2 yellow onions, thickly sliced Bakers twine Roasting Pan</span>
+<br> 1 (4 to 5 pound) whole chicken
+<br> Kosher salt and black pepper
+<br> 1/2 lemon
+<br> 1 whole head garlic, halved
+<br> Olive oil
+<br> 2 yellow onions, thickly sliced
+<br> Bakers twine
+<br> Roasting Pan
 
 # Preparation
 
