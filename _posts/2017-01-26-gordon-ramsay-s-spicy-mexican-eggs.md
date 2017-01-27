@@ -31,9 +31,9 @@ Sea salt and freshly ground black pepper
 # Preparation
 
 *   Preheat oven to 350 degrees.
-*   Add olive oil to sauté pan (don’t heat yet, finish preparing the rest of your ingredients).
-*   Dice red onion and through in large bowl.
-*   Thinly slice jalapeno and garlic and add to onion bowl.
+*   Add olive oil to sauté pan (don’t heat yet, go ahead & finish preparing the rest of your ingredients).
+*   Dice red onion and transfer to large bowl.
+*   Thinly slice jalapeno and garlic and add to onions.
 *   Measure 1 tsp. cumin.
 *   Open tomato and black bean cans.
 *   Drain and rinse black beans, set aside.
@@ -47,22 +47,22 @@ Sea salt and freshly ground black pepper
 # Directions
 
 Heat olive oil on medium heat. Once hot, add red onions, jalapeños, and garlic.  
-Sauté until onions are translucent and a little brown.  
+Sauté until onions are translucent and a little golden.  
 Season with cumin, salt, and pepper (to taste).  
-Add tomatoes and cook for about 5 minutes. Note: I used crushed tomatoes and they worked splendidly. You could used petite diced tomatoes (which I believe is what Gordon is using in his video).  
+Add tomatoes and cook for about 5 minutes. Note: I used crushed tomatoes and they worked splendidly. You could use petite diced tomatoes (which I believe is what Gordon is using in his video).  
 Add black beans and cook 2-3 more minutes.  
 Taste and adjust seasonings as necessary.  
 Take pan off the heat and grab your casserole dish and corn tortillas.  
-Arrange corn tortillas in your casserole dish so that they overlap slightly, hang off the edge of the dish, and cover the bottom of the dish (see Gordon’s tutuorial). Gordon cut his in half but I kept mine whole and they were perfect.  
+Arrange corn tortillas in your casserole dish so that they overlap slightly, hang off the edge of the dish, and cover the bottom of the dish (see Gordon’s tutorial). Gordon cut his tortillas in half but I kept mine whole and they were perfect.  
 Spoon the tomato/onion/bean mixture into the tortilla-lined casserole dish.  
 Creating little wells, crack each egg and pour into well. I had 5 total.  
 Top with more salt and pepper, the white cheddar cheese and crush red pepper.  
 Bake for 15 minutes at 350 degrees, making sure the the egg white is completely cooked. If still clear, continue cooking until white.  
-Top with chopped cilantro (if that's your thing)
+Top with chopped cilantro (if that's your thing).
 
 # Serving Suggestion:
 
-Top with crumbled chorizo and baked tortilla triangles. I ate this with leftover chipotle-butter steak bites and [spanish potatoes](http://bethanygearee.com/2017/01/20/spanish-breakfast-bibimbap.html).
+Top with crumbled chorizo and baked tortilla triangles. I ate this with leftover chipotle-butter steak bites and [spanish potatoes](http://bethanygearee.com/2017/01/20/spanish-breakfast-bibimbap.html). Super hearty dish that's perfect for breakfast, lunch, or dinner. 
 
 ![](/uploads/2017/01/26/IMG_6113-4.JPG)
 
