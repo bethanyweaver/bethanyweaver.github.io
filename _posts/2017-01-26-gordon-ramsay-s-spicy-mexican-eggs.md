@@ -7,13 +7,16 @@ It’s no secret—or maybe it is?—my husband has a man crush on Gordon Ramsay
 
 # *Enter Spicy Mexican Eggs. *
 
+![](/uploads/2017/01/27/mexican%20eggs1.jpg)
+
 This dinner was delicious—part of our #kitchenadventures commitment to test, cook, and eat things we’ve not tried before. This gets a solid A so we will be adding this to the Golden Recipe Box (check it out!). Let’s jump right into it!
 
-If you’re a visual learner like me, go ahead and check out Gordon’s video on how to make this dish. If not, feel free to keep reading on. 
+If you’re a visual learner like me, go ahead and check out Gordon’s video on how to make this dish. If not, feel free to keep reading on.
 
 [Gordon Ramsay’s Tutorial](https://www.youtube.com/watch?v=RplHSEiNB7s&index=12&t=55s&list=PLYG-i702AehO_tnJqQZlj2Bpy1fHc6feP)
 
 # Ingredients
+
 1 tbs. olive oil  
 1 small red onion, diced  
 1 jalapeno, sliced  
@@ -62,7 +65,7 @@ Top with chopped cilantro (if that's your thing).
 
 # Serving Suggestion:
 
-Top with crumbled chorizo and baked tortilla triangles. I ate this with leftover chipotle-butter steak bites and [spanish potatoes](http://bethanygearee.com/2017/01/20/spanish-breakfast-bibimbap.html). Super hearty dish that's perfect for breakfast, lunch, or dinner. 
+Top with crumbled chorizo and baked tortilla triangles. I ate this with leftover chipotle-butter steak bites and [spanish potatoes](http://bethanygearee.com/2017/01/20/spanish-breakfast-bibimbap.html). Super hearty dish that's perfect for breakfast, lunch, or dinner.
 
 ![](/uploads/2017/01/26/IMG_6113-4.JPG)
 
