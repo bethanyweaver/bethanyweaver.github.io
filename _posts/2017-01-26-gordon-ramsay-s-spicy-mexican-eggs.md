@@ -9,15 +9,17 @@ It’s no secret—or maybe it is?—my husband has a man crush on Gordon Ramsay
 
 This dinner was delicious—part of our #kitchenadventures commitment to test, cook, and eat things we’ve not tried before. This gets a solid A so we will be adding this to the Golden Recipe Box (check it out!). Let’s jump right into it!
 
-If you’re a visual learner like me, go ahead and check out Gordon’s video on how to make this dish. If not, feel free to keep reading on. [Gordon Ramsay’s Tutorial](https://www.youtube.com/watch?v=RplHSEiNB7s&index=12&t=55s&list=PLYG-i702AehO_tnJqQZlj2Bpy1fHc6feP)
+If you’re a visual learner like me, go ahead and check out Gordon’s video on how to make this dish. If not, feel free to keep reading on. 
+
+[Gordon Ramsay’s Tutorial](https://www.youtube.com/watch?v=RplHSEiNB7s&index=12&t=55s&list=PLYG-i702AehO_tnJqQZlj2Bpy1fHc6feP)
 
 # Ingredients
-1 tbs. Olive oil  
+1 tbs. olive oil  
 1 small red onion, diced  
 1 jalapeno, sliced  
 3 garlic cloves, sliced  
 1 tsp. cumin  
-1 14oz. can diced tomatoes (I used crushed tomatoes but diced would be fine)  
+1 14oz. can tomatoes (I used crushed tomatoes but diced would be fine)  
 1 14oz. can black beans, rinsed  
 4-6 corn tortillas (depending on how big your casserole dish is)  
 5-6 eggs (depending on how big your casserole dish is)  
@@ -58,7 +60,7 @@ Top with more salt and pepper, the white cheddar cheese and crush red pepper.
 Bake for 15 minutes at 350 degrees, making sure the the egg white is completely cooked. If still clear, continue cooking until white.  
 Top with chopped cilantro (if that's your thing)
 
-# serving suggestion:
+# Serving Suggestion:
 
 Top with crumbled chorizo and baked tortilla triangles. I ate this with leftover chipotle-butter steak bites and [spanish potatoes](http://bethanygearee.com/2017/01/20/spanish-breakfast-bibimbap.html).
 
