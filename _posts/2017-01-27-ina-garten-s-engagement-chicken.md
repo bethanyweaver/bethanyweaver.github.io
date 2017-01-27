@@ -33,9 +33,9 @@ Roasting Pan
 
 # Directions
 
-**Chicken** Pat the chicken dry. Then, drizzle olive oil (1-2 tbs.) over chicken and rub it in. Sprinkle salt and pepper over chicken and give that a good rub, as well. In the chicken cavity, sprinkle more salt and pepper. Add the lemon and the garlic pieces. Tie the legs of the chicken together and tuck the wings underneath the chicken (nothing fancy here!). Place chicken in a roasting pan (mine was a disposable pan - 11x13 size). 
+**Chicken.** Pat the chicken dry. Then, drizzle olive oil (1-2 tbs.) over chicken and rub it in. Sprinkle salt and pepper over chicken and give that a good rub, as well. In the chicken cavity, sprinkle more salt and pepper. Add the lemon and the garlic pieces. Tie the legs of the chicken together and tuck the wings underneath the chicken (nothing fancy here!). Place chicken in a roasting pan (mine was a disposable pan - 11x13 size). 
 
-**Vegetables** Drizzle 2 tbs olive oil over vegetable mixture. Season with salt and pepper. Add mixture to roasting pan around the chicken.
+**Vegetables.** Drizzle 2 tbs olive oil over vegetable mixture. Season with salt and pepper. Add mixture to roasting pan around the chicken.
 
 ![](/uploads/2017/01/27/IMG_6212.JPG)
 
