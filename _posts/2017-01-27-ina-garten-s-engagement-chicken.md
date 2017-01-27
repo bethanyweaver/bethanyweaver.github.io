@@ -49,4 +49,4 @@ If you’re anything like me, you have no idea how to carve a chicken. Watch thi
 
 # Leftovers
 
-I think I’m more excited for leftovers than I am for the roasted chicken. We will reserve the chicken breasts for Creamy Tuscan Garlic Chicken and the leftover dark meat for Chicken Fried Rice
+I think I’m more excited for leftovers than I am for the roasted chicken. We will reserve the chicken breasts for Creamy Tuscan Garlic Chicken and the leftover dark meat for Chicken Fried Rice.
