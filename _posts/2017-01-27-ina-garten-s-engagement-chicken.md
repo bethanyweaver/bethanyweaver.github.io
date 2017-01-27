@@ -13,14 +13,14 @@ Here is Ina’s [recipe](http://www.foodnetwork.com/recipes/ina-garten/engagemen
 
 # Ingredients
 
-<br> 1 (4 to 5 pound) whole chicken
-<br> Kosher salt and black pepper
-<br> 1/2 lemon
-<br> 1 whole head garlic, halved
-<br> Olive oil
-<br> 2 yellow onions, thickly sliced
-<br> Bakers twine
-<br> Roasting Pan
+1 (4 to 5 pound) whole chicken  
+Kosher salt and black pepper  
+1/2 lemon  
+1 whole head garlic, halved  
+Olive oil  
+2 yellow onions, thickly sliced  
+Bakers twine  
+Roasting Pan
 
 # Preparation
 
@@ -33,9 +33,17 @@ Here is Ina’s [recipe](http://www.foodnetwork.com/recipes/ina-garten/engagemen
 
 # Directions
 
-**Chicken** Pat the chicken dry. Then, drizzle olive oil (1-2 tbs.) over chicken and rub it in. Sprinkle salt and pepper over chicken and give that a good rub, as well. In the chicken cavity, sprinkle more salt and pepper. Add the lemon and the garlic pieces. Tie the legs of the chicken together and tuck the wings underneath the chicken (nothing fancy here!). Place chicken in a roasting pan (mine was a disposable pan - 11x13 size). **Vegetables** Drizzle 2 tbs olive oil over vegetable mixture. Season with salt and pepper. Add mixture to roasting pan around the chicken.
+**Chicken** Pat the chicken dry. Then, drizzle olive oil (1-2 tbs.) over chicken and rub it in. Sprinkle salt and pepper over chicken and give that a good rub, as well. In the chicken cavity, sprinkle more salt and pepper. Add the lemon and the garlic pieces. Tie the legs of the chicken together and tuck the wings underneath the chicken (nothing fancy here!). Place chicken in a roasting pan (mine was a disposable pan - 11x13 size). 
+
+**Vegetables** Drizzle 2 tbs olive oil over vegetable mixture. Season with salt and pepper. Add mixture to roasting pan around the chicken.
+
+![](/uploads/2017/01/27/IMG_6212.JPG)
 
 Bake at 425 degrees for 1 hour and 15 minutes then check to see if it is done. It will be done when you poke between the leg and thigh and the juice is clear. My bird was just over 5 pounds and took about 1 hour and 35 minutes to cook through. Once juices run clear, let the chicken rest for 10 minutes.
+
+![](/uploads/2017/01/27/IMG_6220.JPG)
+
+Can't you just see how bitter those lemons look? #neveragain
 
 If you’re anything like me, you have no idea how to carve a chicken. Watch this [video](https://www.youtube.com/watch?v=KnwyQLYTw8E), it helped me.
 
