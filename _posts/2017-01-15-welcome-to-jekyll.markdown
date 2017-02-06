@@ -1,8 +1,9 @@
 ---
+title: Welcome to Jekyll!
+date: '2017-01-15 05:10:25'
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-01-15 00:10:25 -0500
-categories: code demos
+categories:
+- code demos
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
