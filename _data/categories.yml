@@ -1,6 +1,4 @@
 ---
-- name: Fake
-  image: "/uploads/2017/02/17/about_testimonial_2.png"
 - name: code
   image: http://adventurethemes.com/demo/writer/jekyll/v1-d-20-2/img/storytime-thumbnail.jpg
 - name: demos
