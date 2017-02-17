@@ -1,9 +1,9 @@
 ---
 title: Ina Garten's Engagement Chicken
-date: '2017-01-27 13:36:19'
+date: 2017-01-27 13:36
 layout: post
 ---
-Now that I’m staying at home with Ivory, I realize how dangerous FoodNetwork and HGTV are. By the time Jacob comes home I’ve menu planned for a month and have a half dozen diy projects for us to start. I really should cut the plug on these shoes—BUT. I. CAN’T. (addiction, much?).
+Now that I’m staying at home with Ivory, I realize how dangerous FoodNetwork and HGTV are. By the time Jacob comes home I’ve menu planned for a month and have a half dozen diy projects for us to start. I really should cut the plug on these shows—BUT. I. CAN’T. (addiction, much?).
 
 That being said, this week I was watching Ina Garten’s Chicken 101 episode where she made [Engagement Chicken](http://www.foodnetwork.com/recipes/ina-garten/engagement-roast-chicken-recipe.html). This was my first attempt at Roasted Chicken (I know, where have I been the last 26 years???) and I’d say overall it was successful! The chicken, itself, was scrumptious but I found the gravy to be very bitter and inedible. A lot of reviewers on the recipe said the same thing so I went into it knowing it was a possibility. That being said, next time I will just do the chicken and onions and maybe add some potatoes or other vegetables. The lemon stuffed in the chicken can stay but the rest gotta go! :) I can’t wait to use this chicken for leftovers.
 
@@ -33,7 +33,7 @@ Roasting Pan
 
 # Directions
 
-**Chicken.** Pat the chicken dry. Then, drizzle olive oil (1-2 tbs.) over chicken and rub it in. Sprinkle salt and pepper over chicken and give that a good rub, as well. In the chicken cavity, sprinkle more salt and pepper. Add the lemon and the garlic pieces. Tie the legs of the chicken together and tuck the wings underneath the chicken (nothing fancy here!). Place chicken in a roasting pan (mine was a disposable pan - 11x13 size). 
+**Chicken.** Pat the chicken dry. Then, drizzle olive oil (1-2 tbs.) over chicken and rub it in. Sprinkle salt and pepper over chicken and give that a good rub, as well. In the chicken cavity, sprinkle more salt and pepper. Add the lemon and the garlic pieces. Tie the legs of the chicken together and tuck the wings underneath the chicken (nothing fancy here!). Place chicken in a roasting pan (mine was a disposable pan - 11x13 size).
 
 **Vegetables.** Drizzle 2 tbs olive oil over vegetable mixture. Season with salt and pepper. Add mixture to roasting pan around the chicken.
 
