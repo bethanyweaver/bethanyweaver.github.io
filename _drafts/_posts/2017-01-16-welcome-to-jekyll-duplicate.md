@@ -1,6 +1,6 @@
 ---
 title: Welcome to Jekyll!
-date: '2017-01-15 05:10:25'
+date: 2017-01-15 05:10
 layout: post
 categories:
 - code demos
