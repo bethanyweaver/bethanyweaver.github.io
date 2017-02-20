@@ -1,9 +1,7 @@
 ---
-- name: code
-  image: http://adventurethemes.com/demo/writer/jekyll/v1-d-20-2/img/storytime-thumbnail.jpg
-- name: demos
-  image: http://adventurethemes.com/demo/writer/jekyll/v1-d-20-2/img/life-thumbnail.jpg
-- name: another
-  image: http://adventurethemes.com/demo/writer/jekyll/v1-d-20-2/img/journey-thumbnail.jpg
-- name: final
-  image: http://adventurethemes.com/demo/writer/jekyll/v1-d-20-2/img/motivation-thumbnail.jpg
+- name: food
+  image: "/uploads/2017/02/20/StockSnap_5OM955M6OG.jpg"
+- name: homemaking
+  image: "/uploads/2017/02/20/StockSnap_MDO2XVXMHG.jpg"
+- name: minimalism
+  image: "/uploads/2017/02/20/StockSnap_UB2UXMASSW-1.jpg"
