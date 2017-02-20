@@ -1,6 +1,6 @@
 ---
 title: Ina Garten's Engagement Chicken
-date: 2017-01-27 13:36
+date: '2017-01-27T13:36:19-05:00'
 layout: post
 ---
 Now that I’m staying at home with Ivory, I realize how dangerous FoodNetwork and HGTV are. By the time Jacob comes home I’ve menu planned for a month and have a half dozen diy projects for us to start. I really should cut the plug on these shows—BUT. I. CAN’T. (addiction, much?).
